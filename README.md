@@ -1,4 +1,8 @@
-# Bedrock-Polishments-Pre-Alpha
-This pack is created specifically towards console players who suffer from the downgrade when they updated to bedrock edition, This includes the user interface!
+# Origins
+At first, this pack was a fork of the fanmade PSP Version, but now, I ported it to Java & Bedrock and called it **Bedrock Polishments**.
 
-Build #003a seems to contain a water bug that makes it very transparent if it's above 1 block. It's a shader issue with mobile.
+# Description:
+This pack was created to make the PSP, Normal and Bedrock versions closer together. This proccess in some cases is also known as **parity**.
+
+# Trivia:
+The name *Bedrock Polishments* means *Bedrock Edition Polishments*, but the pack was later ported to the Java versions and a link for the psp pack will be available.
